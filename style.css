@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#modal{
+    width: 300px;
+    height: 100px;
+    background-color: rgb(61, 61, 61);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    border-radius: 5px;
+}
+
+button{
+    margin-left: 10px;
+    cursor: pointer;
+}
